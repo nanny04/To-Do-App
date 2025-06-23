@@ -26,3 +26,9 @@ To run this project locally:
 ```bash
 # Clone the repository
 git clone https://github.com/your-github-username/your-repo-name.git
+
+# Go into the folder
+cd your-repo-name
+
+# Open in browser
+Open index.html in your preferred browser
