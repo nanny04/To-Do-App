@@ -22,7 +22,7 @@ A simple, elegant, and persistent To-Do List web application built using HTML, C
 
 ## About the Developer
 Built  by N.Namiveesh Raj
-Connect with me on [GitHub](https://github.com/nanny04), [LinkedIn](https://www.linkedin.com/in/nadimpelli-naniveeshraj/)
+Connect with me on [GitHub](https://github.com/nanny04) | [LinkedIn](https://www.linkedin.com/in/nadimpelli-naniveeshraj/)
 
 ##  Getting Started
 
