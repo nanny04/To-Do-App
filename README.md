@@ -20,6 +20,10 @@ A simple, elegant, and persistent To-Do List web application built using HTML, C
 - **JavaScript** – Core logic and interactivity
 - **localStorage** – To save tasks persistently on the browser
 
+## About the Developer
+Built  by N.Namiveesh Raj
+Connect with me on [GitHub](https://github.com/nanny04), [LinkedIn](https://www.linkedin.com/in/nadimpelli-naniveeshraj/)
+
 ##  Getting Started
 
 To run this project locally:
